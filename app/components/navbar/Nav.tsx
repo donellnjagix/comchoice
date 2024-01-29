@@ -1,6 +1,6 @@
 'use client'
 import Image from "next/image"
-import logo from '@/public/images/logo.png';
+import logo from '@/public/images/logo.png'
 import { useRouter } from "next/navigation";
 import { useState } from "react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/solid";
